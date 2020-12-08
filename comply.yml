@@ -1,0 +1,5 @@
+name: My Company
+filePrefix: myCo
+tickets:
+  github: {}
+approvedBranch: ""
