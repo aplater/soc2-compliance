@@ -1,5 +1,8 @@
 name: My Company
 filePrefix: myCo
+approvedBranch: master
 tickets:
-  github: {}
-approvedBranch: ""
+  github:
+    token: faf7d6f117d5edc18a87c7c80e72f44cef556f48
+    username: LouisTan
+    repo: SOC2
