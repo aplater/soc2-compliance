@@ -302,7 +302,3 @@ In this document, controls are implemented cumulatively, meaning that controls f
 
 
 
-# Authorship and Approval
-Last edit made by Lotana (louis.tant@gmail.com) on Mon, 7 Dec 2020 22:25:04 -0500.
-
-Approved by Lotana (louis.tant@gmail.com) on Mon, 7 Dec 2020 22:25:04 -0500 in commit 0ef43289396c1cdfeab2840e8d508897bd420ccd.
