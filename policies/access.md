@@ -27,7 +27,7 @@ a. *During onboarding:*
 
     i. Hiring Manager informs HR upon hire of a new employee.
 
-    i. HR emails IT to inform them of a new hire and their role. 
+    i. HR emails IT (using prefix subject [ONBOARD]) to inform them of a new hire and their role. 
 
     i. IT creates a checklist of accounts and permission levels needed for that role. 
 
@@ -40,7 +40,7 @@ a. *During offboarding:*
 
     i. Hiring Manager notifies HR when an employee has been terminated. 
 
-    i. HR sends a weekly email report to IT summarizing list of users terminated and instructs IT to disable their access. 
+    i. HR emails IT (using prefix subject [OFFBOARD]) with name of user terminated and instructs IT to disable their access. 
 
     i. IT terminates access within five business days from receipt of notification. 
 

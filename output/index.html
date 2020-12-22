@@ -132,7 +132,7 @@ function show(name) {
               Active Tickets
             </p>
             <p class="title">
-              <a target="_blank" href="https://github.com/LouisTan/SOC2/issues?q=is%3Aissue&#43;is%3Aopen&#43;label%3Acomply&#43;label%3Acomply-procedure">2</a>
+              <a target="_blank" href="https://github.com/LouisTan/SOC2/issues?q=is%3Aissue&#43;is%3Aopen&#43;label%3Acomply&#43;label%3Acomply-procedure">7</a>
             </p>
           </div>
         </div>
@@ -142,7 +142,7 @@ function show(name) {
               Oldest Ticket
             </p>
             <p class="title">
-              <a>7 days</a>
+              <a>11 days</a>
             </p>
           </div>
         </div>
@@ -517,7 +517,7 @@ function show(name) {
         <tbody>
           <tr>
             <td>
-              Offboard User
+              Employee Termination Checklist
             </td>
             <td>
               offboard
@@ -528,7 +528,7 @@ function show(name) {
           </tr>
           <tr>
             <td>
-              Onboard New User
+              New Employee Orientation Checklist
             </td>
             <td>
               onboard
@@ -1649,21 +1649,4 @@ if (window.location.hash=="") {
   }
 }
 </script>
-</html><script>
-(function(){
-	var ws = new WebSocket("ws://localhost:4000/ws")
-	if (location.host != "") {
-		ws = new WebSocket("ws://"+location.host+"/ws")
-	}
-	var connected = false
-	ws.onopen = function(e) {
-		connected = true
-	}
-	ws.onclose = function(e) {
-		// reload!
-		if (connected) {
-			window.location.reload(true)
-		}
-	}
-})()
-</script>
+</html>

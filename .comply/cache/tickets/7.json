@@ -1,0 +1,13 @@
+{
+	"ID": "7",
+	"Name": "New Employee Orientation Checklist",
+	"State": "open",
+	"Body": "\n\nResolve this ticket by executing the following steps:\n\nFIRST DAY \n\n- [x] Provide employee with Contract / Employee Handbook.\n- [x] Assign \"buddy\" employee(s) to answer general questions.\n\nPOLICIES \n\n- [x] Review key policies.\n  - Anti-harassment\n  - Vacation and sick leave\n  - Work hours/Shift\n  - Holidays\n  - Time and leave notice \u0026 reporting\n  - Overtime\n  - Performance reviews\n  - Dress code (Slacks, Polo or Shirt)\n  - Personal conduct standards\n  - Disciplinary actions\n  - Security\n  - Confidentiality\n  - Direct Deposit/Void Cheque\n  - Emergency procedures\n  - Visitors\n  - E-mail and Internet use\n\n  ADMINISTRATIVE PROCEDURES \n\n- [x] Review general administrative procedures.\n  - Office/desk/work station/Computer \n  - Keys / Alarm Code \n  - Mail (incoming and outgoing) \n  - Shipping (FedEx, DHL, and UPS) \n  - Business cards \n  - Purchase requests \n  - Telephones / Cell \n  - Cert ID Numbers\n  - Tools: USB/GPS/HDD \n  - Service Tickets /Scheduling\n  - Expense reports\n  - Office supplies \n\nINTRODUCTIONS AND TOURS \n\n- [x] Give introductions to department staff and key personnel during tour.\n  - Restrooms\n  - Kitchen\n  - Coffee Machine\n  - Printers\n  - Office supplies\n  - Parking\n  - Emergency exits and supplies \n\nPOSITION INFORMATION \n\n- [ ] Introductions to team.\n- [ ] Review initial job assignments and training plans. \n- [ ] Review job description and performance expectations and standards. \n- [ ] Review job schedule and hours.\n- [ ] Review payroll timing, time sheets, and policies and procedures. \n\nCOMPUTERS\n\n- [ ] Hardware and software review:\n  - E-mail \n  - Intranet\n  - Microsoft Office System\n  - Data on shared drives\n  - CRM / PSA\n  - Internet\n\n\n\n---\nProcedure-ID: onboard",
+	"Attributes": {
+		"comply": true,
+		"comply-procedure": true
+	},
+	"ClosedAt": null,
+	"CreatedAt": "2020-12-18T15:16:43Z",
+	"UpdatedAt": null
+}

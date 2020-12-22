@@ -1,0 +1,13 @@
+{
+	"ID": "8",
+	"Name": "Offboard User",
+	"State": "open",
+	"Body": "\n\nResolve this ticket by executing the following steps:\n\n- [ ] Immediately suspend user in SSO\n- [ ] Append HR termination request e-mail to this ticket\n- [ ] Look up manually-provisioned applications for this role or user\n- [ ] Validate access revocation in each\n- [ ] Append confirmation or revocation to this ticket\n\n\n---\nProcedure-ID: offboard",
+	"Attributes": {
+		"comply": true,
+		"comply-procedure": true
+	},
+	"ClosedAt": null,
+	"CreatedAt": "2020-12-18T15:19:24Z",
+	"UpdatedAt": null
+}
