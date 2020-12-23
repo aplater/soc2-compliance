@@ -33,7 +33,7 @@ a. *During onboarding:*
 
     i. IT creates a user in Snipe-IT and checks-out the predefined kit needed for this role. 
 
-    i. Account credentials are passed on in MyGlue Password Manager to the new hire.
+    i. Account credentials are passed on in MyGlue password manager to the new hire.
 
 a. *During offboarding:*
 
@@ -59,6 +59,6 @@ a. *When an employee changes roles within the organization:*
 
 a. *Review of accounts and permissions:*
 
-    i. Each month, IT and HR will review accounts and permission levels for accuracy using MyGlue Password Manager. 
+    i. Each month, IT and HR will review accounts and permission levels for accuracy using MyGlue password manager. 
 
 
