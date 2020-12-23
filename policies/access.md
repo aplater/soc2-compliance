@@ -31,9 +31,9 @@ a. *During onboarding:*
     
     i. HR sends a ticket to IT to inform them of a new hire and their role.
 
-    i. IT creates a user in Snipe-IT and checks-out the predefined kit needed for this role. 
+    i. IT creates a user in Snipe-IT and apply the predefined kit needed for this role. 
 
-    i. Account credentials are passed on in MyGlue password manager to the new hire.
+    i. The owner of each resource reviews and approves account creation and the associated permissions. Account credentials are passed on in MyGlue password manager to the new employee.
 
 a. *During offboarding:*
 
