@@ -142,7 +142,7 @@ function show(name) {
               Oldest Ticket
             </p>
             <p class="title">
-              <a>11 days</a>
+              <a>12 days</a>
             </p>
           </div>
         </div>
@@ -354,6 +354,17 @@ function show(name) {
             </td>
             <td>
               <a href="myCo-DRP.pdf" target="_blank">myCo-DRP.pdf</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Data Classification Policy
+            </td>
+            <td>
+              DCP-test
+            </td>
+            <td>
+              <a href="myCo-DCP-test.pdf" target="_blank">myCo-DCP-test.pdf</a>
             </td>
           </tr>
           <tr>
@@ -1248,6 +1259,7 @@ function show(name) {
             </td>
             <td>
               <a class="is-size-7" href="myCo-DCP.pdf" target="_blank">myCo-DCP.pdf</a>
+              <a class="is-size-7" href="myCo-DCP-test.pdf" target="_blank">myCo-DCP-test.pdf</a>
               <a class="is-size-7" href="myCo-EP.pdf" target="_blank">myCo-EP.pdf</a>
               <a class="is-size-7" href="myCo-ISP.pdf" target="_blank">myCo-ISP.pdf</a>
               <a class="is-size-7" href="myCo-PWP.pdf" target="_blank">myCo-PWP.pdf</a>
@@ -1649,4 +1661,21 @@ if (window.location.hash=="") {
   }
 }
 </script>
-</html>
+</html><script>
+(function(){
+	var ws = new WebSocket("ws://localhost:4000/ws")
+	if (location.host != "") {
+		ws = new WebSocket("ws://"+location.host+"/ws")
+	}
+	var connected = false
+	ws.onopen = function(e) {
+		connected = true
+	}
+	ws.onclose = function(e) {
+		// reload!
+		if (connected) {
+			window.location.reload(true)
+		}
+	}
+})()
+</script>

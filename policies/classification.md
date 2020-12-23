@@ -48,7 +48,7 @@ a. When classifying information, the level of confidentiality is determined by:
 d. Information must be classified based on confidentiality levels as defined in Table 3.
 
 
-**Confidentiality Level** | **Description for admins** | **Description for users**
+**Confidentiality Level** | **Classification Criteria** | **Access Restrictions**
 --- | --- | ---
 Public | Making the information | Information is available 
 | | public will not harm | to the public.
