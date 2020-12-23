@@ -39,13 +39,13 @@ a. *During offboarding:*
 
     i. Hiring Manager notifies HR when an employee has been terminated. 
 
-    i. HR opens an onboard comply procedure and follows the onboarding instructions.
+    i. HR opens an onboard comply procedure and follows the offboarding instructions.
 
     i. HR sends a ticket to IT to inform them of a user termination.
     
-    i. Employee turns in assets during final interview.	
+    i. Employee turns in assets during offboarding interview.	
 
-    i. IT terminates access to all software checks-in physical assets in Snipe-IT within two business days from receipt of notification.
+    i. IT revokes all access to software and checks-in physical assets in Snipe-IT within two business days from receipt of notification.
 
     i. Computer is marked as "Pending Imaging" and added to the queue to be re-imaged.
     
