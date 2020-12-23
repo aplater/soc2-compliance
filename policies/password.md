@@ -22,7 +22,8 @@ a. *Rotation requirements*
 
     i. If a credential is suspected of being compromised, the password in question should be rotated immediately and the IT team should be notified.
 
-    i. A password must contain at least 16 characters, an upper case and lower case character and a symbol. We recommend using the MyGlue password generator for all you passwords
+    i. A password must contain at least 16 characters, an upper case and lower case character and a symbol. We recommend using the MyGlue password generator for all you passwords.
+
 
     i. A password cannot contain the user's account name or part of the user's full name that exceed two consecutive characters.
 
@@ -46,6 +47,8 @@ a. *Lockout policy*
 
 a. *Enforcement*
 
-    i. An employee or contractor found to have violated this policy may be subject to disciplinary action. 
+    i. Any exception to the policy must be approved by security management in advance.
+
+    i. An employee or contractor found to have violated this policy may be subject to disciplinary action.
 
 

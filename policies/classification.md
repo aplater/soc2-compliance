@@ -270,7 +270,6 @@ a. Information Transmitted Orally
         1. No transcript of the conversation may be kept.
 
 In this document, controls are implemented cumulatively, meaning that controls for any confidentiality level imply the implementation of controls defined for lower confidentiality levels - if stricted controls are prescribed for a higher confidentiality level, then only such controls are implemented.
-
 
 
 
