@@ -1,0 +1,13 @@
+{
+	"ID": "15",
+	"Name": "Onboard New User",
+	"State": "open",
+	"Body": "\n\nResolve this ticket by executing the following steps:\n\n- [ ] Append HR add request e-mail to this ticket\n- [ ] Proactively validate role assignment with manager (see HR request e-mail)\n- [ ] Add user to default group for the specified role\n- [ ] Provision any manually-provisioned applications by role\n    - [ ] Append manual provisioning confirmation to this ticket\n- [ ] Proactively confirm with new user that they can access all provisioned systems\n\n\n---\nProcedure-ID: onboard",
+	"Attributes": {
+		"comply": true,
+		"comply-procedure": true
+	},
+	"ClosedAt": null,
+	"CreatedAt": "2020-12-28T17:23:08Z",
+	"UpdatedAt": null
+}
