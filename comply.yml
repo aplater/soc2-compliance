@@ -1,5 +1,5 @@
-name: My Company
-filePrefix: myCo
+name: Fusion-IT
+filePrefix: fusion
 approvedBranch: master
 tickets:
   github:
