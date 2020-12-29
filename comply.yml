@@ -3,6 +3,6 @@ filePrefix: myCo
 approvedBranch: master
 tickets:
   github:
-    token: 5c819a9b0cb07487e0d5c8c3f8910020edf894b2
+    token: e4b50c1a5d3ca3b640bc6edf35fb5bc0c0ed64fb
     username: LouisTan
     repo: SOC2

@@ -131,6 +131,10 @@ CC9.2:
   family: CC9
   name: Vendor Risk Management
   description: The entity assesses and manages risks associated with vendors and business partners
+CC9.9:
+  family: CC9
+  name: n/a
+  description: n/a
 A1.1:
   family: A1
   name: Capacity Planning

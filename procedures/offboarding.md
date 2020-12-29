@@ -1,11 +1,57 @@
 id: "offboard"
-name: "Offboard User"
+name: "Employee Termination Checklist"
 ---
 
 Resolve this ticket by executing the following steps:
 
-- [ ] Immediately suspend user in SSO
-- [ ] Append HR termination request e-mail to this ticket
-- [ ] Look up manually-provisioned applications for this role or user
-- [ ] Validate access revocation in each
-- [ ] Append confirmation or revocation to this ticket
+- [ ] Review any assigned open projects and tickets and transfer to other staff
+- [ ] Change AD Password
+- [ ] Change Email Password (Office 365 or other)
+  - Forward Email to Manager or Replacement
+- [ ] Change VPN Password if not using AD Password
+- [ ] Disable FortiClient VPN and Reclaim MFA Token
+- [ ] Change Firewall Password & Disable Employee User Account
+- [ ] Change MiTel Client and Voicemail Password
+- [ ] Remove from SMS Group text Service for O365 MFA
+- [ ] Change Password or Disable Account for all Hosted SaaS Platforms
+  - Duo Security
+  - IT Glue
+  - ConnectWise
+  - Automate
+  - Control/ScreenConnect
+  - Solarwinds Backup / N-Central
+  - BitDefender Gravity Zone
+  - Meraki / Cisco
+  - FortiNet / FortiCloud
+  - Teramind
+  - Liongard
+  - Sage / Quickbooks
+  - Ceridian / Payroll
+  - Office 365 Client Admin Portals for all Clients
+  - Empire Life
+- [ ] Change Password for all Supplier and Vendor Sites
+  - Ingram
+  - Tech Data
+  - Synnex
+  - GoDaddy
+  - EasyDNS
+  - Comodo SSL
+  - Amazon
+  - MiTel
+  - Dell
+  - HP
+  - Lenovo
+  - Teramind
+  - Fortinet
+  - Microsoft
+- [ ] Remove from Datacenter Access (Vantage)
+- [ ] Advise all suppliers and customers of departure
+- [ ] Change Password or Disable Direct Remote Access to all client firewalls
+- [ ] Disable Alarm Code and Entry FOBs
+- [ ] Disable August Lock Access
+- [ ] Wipe Smart Phone if required
+- [ ] Forward Extension to Reception or Alternate User
+- [ ] Retrieve all company property (keys, phones, notebooks, tablets, memory sticks, polos, businesscards, etc.)
+- [ ] Process ROE at Payroll
+- [ ] Pay out unused vacation time
+- [ ] Retrieve Cell Phone, Keys, Tools, BlueTooth Hands Free Devices, Hardware, Notebooks, Software,GPS Devices
