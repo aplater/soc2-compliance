@@ -1,11 +1,11 @@
 % Privacy Management Policy
-% Fusion Cyber Group
+% Fusion-IT
 % December 2020
 
 ---
 header-includes: yes
 head-content: "Privacy Management Policy"
-foot-content: "Fusion Cyber Group confidential 2020"
+foot-content: "Fusion-IT confidential 2020"
 ---
 
 |Standard|Controls Satisfied|
@@ -28,6 +28,6 @@ Table: Document history
 # Coming Soon
 
 # Authorship and Approval
-Last edit made by Lotana (louis.tant@gmail.com) on Thu, 17 Dec 2020 16:10:31 -0500.
+Last edit made by Lotana (louis.tant@gmail.com) on Mon, 28 Dec 2020 23:55:13 -0500.
 
-Approved by Lotana (louis.tant@gmail.com) on Thu, 17 Dec 2020 16:10:31 -0500 in commit 09fedb7b88cc6efe9e679672b7bbb55c5c5129d7.
+Approved by Lotana (louis.tant@gmail.com) on Mon, 28 Dec 2020 23:55:13 -0500 in commit 8ef818988416025b6635c3879fa187180f78a4be.

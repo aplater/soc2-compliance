@@ -1,11 +1,11 @@
 % Data Retention Policy
-% Fusion Cyber Group
+% Fusion-IT
 % December 2020
 
 ---
 header-includes: yes
 head-content: "Data Retention Policy"
-foot-content: "Fusion Cyber Group confidential 2020"
+foot-content: "Fusion-IT confidential 2020"
 ---
 
 |Standard|Controls Satisfied|
