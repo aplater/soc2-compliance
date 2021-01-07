@@ -5,7 +5,7 @@
 ---
 header-includes: yes
 head-content: "Privacy Management Policy"
-foot-content: "Fusion-IT confidential 2020"
+foot-content: "Fusion-IT confidential 2021"
 ---
 
 |Standard|Controls Satisfied|

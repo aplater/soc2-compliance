@@ -20,7 +20,7 @@ a. This policy applies to all management and employees that take part in the org
 
 a. This policy defines a step-by-step process for conducting risk assessments, as well as to treat identified risks from an information security perspective. This policy also describes how to prepare the Risk Assessment Report required as part of the risk assessment process.
 
-a. When conducting a risk assessment, the organization must identify all organizational information systems . It must then identify all threats and vulnerabilities having to do with such systems , and rate the severity of such threats and vulnerabilities according to a predefined rating scale. Asset and risk owners must be defined for each risk item.
+a. When conducting a risk assessment, the organization must identify all organizational information systems. It must then identify all threats and vulnerabilities having to do with such systems, and rate the severity of such threats and vulnerabilities according to a predefined rating scale. Asset and risk owners must be defined for each risk item.
 
 a. Once the risk assessment is completed, the organization shall determine how to manage risks where the overall assessed risk rating is deemed as too high. This management is known as risk treatment. Risk treatment options include but are not limited to applying security controls, outsourcing risk, accepting risk, or discontinuing the activity associated with the risk.
 

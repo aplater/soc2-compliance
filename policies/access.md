@@ -23,33 +23,29 @@ a. In order to minimize the risk of information loss or exposure (from both insi
 
 # Policy
 
-a. *During onboarding:*
-
-    i. Hiring Manager informs HR upon hire of a new employee.
-
-    i. HR opens an onboard comply procedure and follows the onboarding instructions.
+a. *During preboarding : 2-3 weeks before onboarding day*
     
-    i. HR sends a ticket to IT to inform them of a new hire and their role.
+    i. Hiring manager accesses Comply's VM and executes "comply proc preboard"
 
-    i. IT creates a user in Snipe-IT and apply the predefined kit needed for this role. 
+    i. HR receives the ticket, follows the instructions and closes the ticket
 
-    i. The owner of each resource reviews and approves account creation and the associated permissions. Account credentials are passed on in MyGlue password manager to the new employee.
+    i. HR accesses Comply's VM and executes "comply proc onboard" upon reception of the work contract
+
+a. *During onboarding : Upon reception of the work contract* 
+
+    i. An IT technician receives the ticket, assigns it to himself, follows the instructions in the IT Technician section and assigns the ticket to HR upon completion up to 24 hours before the employee's first day
+    
+    i. HR receives the ticket, reviews the HR section and closes the ticket
 
 a. *During offboarding:*
 
-    i. Hiring Manager notifies HR when an employee has been terminated. 
+    i. Hiring manager accesses Comply's VM and executes "comply proc offboard"
 
-    i. HR opens an onboard comply procedure and follows the offboarding instructions.
+    i. HR receives the ticket, follows the instructions in the HR section and assigns it to IT Technician
 
-    i. HR sends a ticket to IT to inform them of a user termination.
-    
-    i. Employee turns in assets during offboarding interview.	
+    i. An IT technician receives the ticket and assigns it to himself
 
-    i. IT revokes all access to software and checks-in physical assets in Snipe-IT within two business days from receipt of notification.
-
-    i. Computer is marked as "Pending Imaging" and added to the queue to be re-imaged.
-    
-    i. Computer is marked as "Available" upon reimaging.
+    i. The IT technician follows the instructions in the IT Technician section and assigns the ticket to HR upon completion
 
 a. *When an employee changes roles within the organization:*
 
@@ -59,6 +55,4 @@ a. *When an employee changes roles within the organization:*
 
 a. *Review of accounts and permissions:*
 
-    i. Each month, IT and HR will review accounts and permission levels for accuracy using MyGlue password manager. 
-
-
+    i. Each month, IT and HR will review accounts and permission levels for accuracy. 
