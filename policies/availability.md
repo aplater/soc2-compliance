@@ -73,28 +73,19 @@ a. Information systems must have an appropriate business continuity plan that me
 
     i. All applicable legal and regulatory requirements must be satisfied.
 
-+-------------------+------------------+---------------+-------------------+------------------+
-|**Availability**   | **Availability** | **Scheduled** | **Recovery Time** | **Data Loss or** |
-|**Classification** | **Requirements** | **Outage**    | **Requirements**  | **Impact Loss**  |
-+===================+==================+===============+===================+==================+
-| High              | High to          | 30 minutes    | 1 hour            | Minimal          |
-|                   | Continuous       |               |                   |                  |
-+-------------------+------------------+---------------+-------------------+------------------+
-|                   |                  |               |                   |                  |
-+-------------------+------------------+---------------+-------------------+------------------+
-| Medium            | Standard         | 2 hours       | 4 hours           | Some data loss   |
-|                   | Availability     |               |                   | is tolerated if  |
-|                   |                  |               |                   | it results in    |
-|                   |                  |               |                   | quicker          |
-|                   |                  |               |                   | restoration      |
-+-------------------+------------------+---------------+-------------------+------------------+
-|                   |                  |               |                   |                  |
-+-------------------+------------------+---------------+-------------------+------------------+
-| Low               | Limited          | 4 hours       | Next              | Some data loss   |
-|                   | Availability     |               | business day      | is tolerated if  |
-|                   |                  |               |                   | it results in    |
-|                   |                  |               |                   | quicker          |
-|                   |                  |               |                   | restoration      |
-+-------------------+------------------+---------------+-------------------+------------------+
+**Availability** | **Requirements** | **Maintenance** | **Recovery** | **Impact Loss**
+--- | --- | --- | --- | ---
+High | High to | 30 minutes | 1 hour | Minimal
+| | Continuous | |
+| | | | |
+Medium | Standard | 2 hours | 4 hours | Some data loss
+| | Availability | | | is tolerated if
+| | | | | it results in
+| | | | | quicker restoration
+| | | | |
+Low | Limited | 4 hours | Next | Some data loss
+| | Availibility | | business | is tolerated if
+| | | | day | it results in
+| | | | | quicker restoration
 
 Table 3: Recovery Time and Data Loss Limits 
