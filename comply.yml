@@ -3,6 +3,6 @@ filePrefix: fusion
 approvedBranch: master
 tickets:
   github:
-    token: 8627ee545abf2ea8fb90a91a47036567383aa7b0
+    token: 0b6f4f645ef87c56e1628b1b39b1e49fff5db677
     username: LouisTan
     repo: SOC2

@@ -1,0 +1,13 @@
+{
+	"ID": "17",
+	"Name": "Preboarding potential hire",
+	"State": "closed",
+	"Body": "\n\n# Preboarding\n\nResolve this ticket by executing the following steps:\n\n### 2-3 weeks before onboarding date\n- [x] Perform a criminal background check\n- [x] Modify the appropriate work template in SharePoint under `/templates/employees/work_contracts/`\n- [x] Send the work contract to the new employee w/ [onboardEmployeeEmail.txt](https://github.com/fusion-it/soc2-compliance/files/5772697/onboardEmployeeEmail.txt)\n### Upon reception of the signed work contract\n- [x] Store the signed work contract in SharePoint under `/employees/work_contracts/\u003cfirstName.lastName\u003e.pdf`\n-  Use a confidential label\n- [x] Get the employee's handbook in SharePoint under /employees/employees_handbook.pdf\n- [x] Send the employee's handbook to the employee w/ [onboardEmployeeEmail.txt](https://github.com/fusion-it/soc2-compliance/files/5772697/onboardEmployeeEmail.txt)\n- [x] Make an introduction to staff of new hire w/ [onboardTeamEmail.txt](https://github.com/fusion-it/soc2-compliance/files/5772696/onboardTeamEmail.txt)\n- [x] Access Comply's VM and execute  `comply proc onboard`\n\n\n---\nProcedure-ID: preboard",
+	"Attributes": {
+		"comply": true,
+		"comply-procedure": true
+	},
+	"ClosedAt": null,
+	"CreatedAt": "2021-01-07T16:30:13Z",
+	"UpdatedAt": null
+}
