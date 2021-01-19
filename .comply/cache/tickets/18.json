@@ -1,0 +1,13 @@
+{
+	"ID": "18",
+	"Name": "Onboarding new employee",
+	"State": "closed",
+	"Body": "\n# Onboarding\n\nResolve this ticket by executing the following steps:\n\n## IT technician\n\n### Within 48h from ticket receipt\n\n- [x] Send a email to accounting@fusion-it.ca w/ [onboardEmployeeEmail.txt](https://github.com/fusion-it/soc2-compliance/files/5772697/onboardEmployeeEmail.txt)\n- [x] Request the following assets w/ ConnectWise\n- A laptop and charger\n- A desk\n- 3 screens\n- 2 cables\n- A mouse \u0026 keyboard\n- The office key\n- 2 polos and 2 masks\n- Business cards\n- [x] The following software must be installed on the computer:\n- Windows 10\n- Office 365 Suite\n- BitDefender\n- Sentinel One\n- Teramind\n- [x] Create a user in Azure Active Directory\n- Add the employee in the appropriate group\n- [x] Create user in My Glue\n- [x] Create user in \n- [x] Create a user in:\n-  Office 365\n-  IT Glue\n-  SolarWinds\n-  Datto \n- IT Pro TV\n- [x] Store all credentials in MyGlue\n- [x] Add the employee in the appropriate group\n- [x] Link accounts to Active Directory\n\n## HR\n\n### Before the employee's first day\n\n- [x] Make sure all the assets are ready for the new employee\n- [ ] Print:\n- A signed work contract\n- An employee's handbook\n- The Infosecurity policy\n- [x] Review the [Employee Orientation Checklist](https://github.com/fusion-it/soc2-compliance/files/5778261/New_Employee_Orientation_Checklist.pdf)\n\n### On the first day\n- [x] Make a tour of the installations, show emergency exits, introduce to teammates etc.\n- [x] Provide all documents a newly imaged laptop to new hire\n- [x] Provide Windows and MyGlue passwords and ask the employee to change them\n- [x] Assign an employee to shadow and plan training\n\n\n---\nProcedure-ID: onboard",
+	"Attributes": {
+		"comply": true,
+		"comply-procedure": true
+	},
+	"ClosedAt": null,
+	"CreatedAt": "2021-01-07T16:34:41Z",
+	"UpdatedAt": null
+}

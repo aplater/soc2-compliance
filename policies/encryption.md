@@ -25,31 +25,18 @@ a. The organization must protect individual systems or information by means of c
 
 \pagebreak 
 
-+---------------------+-------------------+----------------+--------------+
-| **Name of System/** | **Cryptographic** | **Encryption** | **Key Size** |
-| **Type of**         | **Tool**          | **Algorithm**  |              |
-| **Information**     |                   |                |              |
-+=====================+===================+================+==============+
-| Public Key          |  OpenSSL          | AES-256        | 256-bit key  |
-| Infrastructure for  |                   |                |              |
-| Authentication      |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-|                     |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-| Data Encryption     |  OpenSSL          | AES-256        | 256-bit key  |
-| Keys                |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-|                     |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-| Virtual Private     |  OpenSSL and      | AES-256        | 256-bit key  |
-| Network (VPN)       |  OpenVPN          |                |              |
-| keys                |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-|                     |                   |                |              |
-+---------------------+-------------------+----------------+--------------+
-| Website SSL         |  OpenSSL, CERT    | AES-256        | 256-bit key  |
-| Certificate         |                   |                |              | 
-+---------------------+-------------------+----------------+--------------+
+**Type of Information** | **Cryptographic Tool** | **Algorithm** | **Key Size**
+--- | --- | --- | ---
+Public Key | Open SSL | AES-256 | 256-bit key
+Infrastructure for | | | | 
+Authentication | | | |
+| | | |
+Data Enryption Keys| Open SSL | AES-256 | 256-bit key
+| | | |
+Virtual Private | Open SSL and | AES-256 | 256-bit key
+Network Keys | Open VPN | | |
+| | | |
+Website SSL Certificate | Open SSL. CERT | AES-256 | 256-bit key
 
 Table 3: Cryptographic Controls 
 
