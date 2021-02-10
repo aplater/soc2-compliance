@@ -4,7 +4,7 @@ satisfies:
   TSC:
     - CC9.9
 majorRevisions:
-  - date: Jun 1 2018
+  - date: Feb 10 2021
     comment: Initial document
 ---
 # Purpose and Scope
@@ -13,7 +13,7 @@ a. This policy defines organizational requirements for the use of cryptographic 
 
 a. This policy applies to all systems, equipment, facilities and information within the scope of the organization’s information security program.
 
-a. All employees, contractors, part-time and temporary workers, service providers, and those employed by others to perform work on behalf of the organization having to do with cryptographic systems, algorithms, or keying material are subject to this policy and must comply with it.
+a. All regular full-time, regular part-time, temporary and provisional employees, service providers, and those employed by others to perform work on behalf of the organization having to do with cryptographic systems, algorithms, or keying material are subject to this policy and must comply with it.
 
 # Background
 
@@ -60,10 +60,8 @@ a. All key management must be performed using software that automatically manage
 
   i. The key management service must provide key access to specifically-designated users, with the ability to encrypt/decrypt information and generate data encryption keys.
 
-  i. The key management service must provide key administration access to specifically-designated users, with the ability to create, schedule delete, enable/disable rotation, and set usage policies for keys.
+  i. The key management service must provide key administration access to specifically-designated users, with the ability to create, schedule delete, and set usage policies for keys.
 
-  i. The key management service must store and backup keys for the entirety of their operational lifetime.
-
-  i. The key management service must rotate keys at least once every 12 months.
+  i. The key management service must store and backup keys in IT Glue for the entirety of their operational lifetime.
 
 

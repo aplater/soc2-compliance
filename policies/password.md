@@ -12,7 +12,7 @@ majorRevisions:
 
 a. The Password Policy describes the procedure to select and securely manage passwords. 
 
-a. This policy applies to all regular full-time, regular part-time, temporary and provisional employee who have an account on any system that resides at any company facility or has access to the company network.  
+a. This policy applies to all regular full-time, regular part-time, temporary and provisional employees who have an account on any system that resides at any company facility or has access to the company network.  
 
 # Policy
 
