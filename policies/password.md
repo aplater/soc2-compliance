@@ -18,7 +18,7 @@ a. This policy applies to all regular full-time, regular part-time, temporary an
 
 a. *Rotation requirements* 
 
-    i. The latest NIST recommendations on memorized secrets discourages the application of periodic password change rules (SP 800-63B Section 5.1.1.2 paragraph 9). However, if a credential is suspected of being compromised, the password in question should be change immediately and the Engineering/Security team should be notified at incident@fusion-it.ca 
+    i. The latest NIST recommendations on memorized secrets discourages the application of periodic password change rules (SP 800-63B Section 5.1.1.2 paragraph 9). However, if a credential is suspected of being compromised, the password in question should be change immediately and the security incident manager should be notified at incident@fusion-it.ca 
 
 a. *Password complexity*
     
@@ -41,7 +41,7 @@ a. *Password protection*
 
     i. Do not use the “Remember Password” feature of applications and web browsers. 
 
-    i. If you suspect a password has been compromised, change the password immediately and notify engineering/security at incident@fusion-it.ca
+    i. If you suspect a password has been compromised, change the password immediately and notify the security incident manager at incident@fusion-it.ca
 
 a. Enforcement
 
