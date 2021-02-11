@@ -4,7 +4,7 @@ satisfies:
   TSC:
     - CC9.9
 majorRevisions:
-  - date: Feb 10 2021
+  - date: Feb 11 2021
     comment: Initial document
 ---
 # Purpose and Scope
@@ -42,7 +42,7 @@ Table 3: Cryptographic Controls
 
 &nbsp;
 
-b. Except where otherwise stated, keys must be managed by their owners or custodians
+b. Except where otherwise stated, keys must be managed by their owners or custodians.
 
 c. Cryptographic keys must be protected against loss, change, or destruction by applying appropriate access control mechanisms to prevent unauthorized use and backing up keys regularly.
 

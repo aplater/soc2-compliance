@@ -80,7 +80,7 @@ a. *Cloud Storage*
 
 a. *Personally-Owned Devices*
 
-   i. Organizational data not classified as public use according to reference (a) may not be stored at any time on a personally-owned device.
+   i. Organizational data not classified as public use according to reference (a) may not be stored at any time on a personally-owned device. This includes, but is not limited to your personal devices' local hard drive, unauthorized removable devices, email accounts, and cloud storage.
 
     i. The ISM is responsible to maintain a list of job titles and/or persons authorized to use personally-owned devices for the organization’s business, as well as the applications and databases that may be accessed from such devices.
 
@@ -90,27 +90,27 @@ a. *Personally-Owned Devices*
 
         1. The device must be secured using a password, pin, fingerprint or equivalent security mechanism. Avoid the use of unlock pattern to unlock your device.
 
-        1. The device must only connect to secure and encrypted wireless networks
+        1. The device must only connect to secure and encrypted wireless networks.
 
-        1. The device's Bluetooth capability must be turned off when not in use
+        1. The device's Bluetooth capability must be turned off when not in use.
 
-        1. When using the device in public areas, the owner must take measures to ensure that the data cannot be read or accessed by unauthorized persons. Be aware of shoulder surfing.
+        1. The the owner must take measures to ensure that the data cannot be read or accessed by unauthorized persons. Be aware of shoulder surfing when using the device in public areas.
 
         1. Patches and updates must be installed regularly.
 
         1. It is prohibited to:
 
-            a. Allow device access for anyone except its owner
+            a. Allow device access for anyone except its owner.
         
-            a. Store illegal materials on the device
+            a. Store illegal materials on the device.
 
-            a. Jailbreak or root your mobile phone
+            a. Install unlicensed software and use unauthorized apps stores.
 
-            a. Install unlicensed software and use unauthorized apps stores
-
-            a. Locally store company's sensitive data
+            a. Locally store company's sensitive data.
 
             a. Transfer organizational data to other devices which have not been approved by the organization.
+
+             a. Jailbreak or root your mobile phone.
 
     i. The organization must reserve the right to view, edit, and/or delete any organizational information that is stored, processed or transferred on the device.
 

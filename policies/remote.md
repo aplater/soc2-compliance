@@ -6,7 +6,7 @@ satisfies:
     - CC6.2
     - CC6.7
 majorRevisions:
-  - date: Feb 10 2021
+  - date: Feb 11 2021
     comment: Initial document
 ---
 
@@ -34,9 +34,9 @@ a. *Security Requirements for Remote Hosts and Mobile Computing Equipment*
 
     i. Caution must be exercised when mobile computing equipment is placed or used in uncontrolled spaces such as vehicles, public spaces, hotel rooms, meeting places, conference centers, and other unprotected areas outside the organization’s premises.
 
-    i. Never leave your mobile devices unattended in a public area. If you must leave your workstation for a short while, ensure to lock your device with a cable lock to a piece of furniture.
+    i. Never leave your mobile devices unattended in an area without the supervion of an authorized user or trusted third party.
 
-    i. When using remote hosts and mobile computing equipment, users must take care that information on the device (e.g. displayed on the screen) cannot be read by unauthorized persons if the device is being used to connect to the organization’s systems or work with the organization’s data. Be aware of shoulder surfing in public areas.
+    i. When using remote hosts and mobile computing equipment, users must take care that information on the device (e.g. displayed on the screen) cannot be read by unauthorized user if the device is being used to connect to the organization’s systems or work with the organization’s data. Be aware of shoulder surfing in public areas.
 
     i. Remote hosts must be updated and patched for the latest security updates on at least a monthly basis.
 
@@ -56,8 +56,6 @@ a. *Security Requirements for Telework*
       * WPA2-AES security for wifi networks with a password compliant to Fusion-IT password policy
       * A single firewall with properly configured rules. Unsecured port forwarding must be avoided.
 
-    i. Users performing telework must ensure the remote host is not connected to any other network at the same time, except for personal networks that are under their complete control or under the complete control of an authorized user or third party
+    i. Users performing telework must ensure the remote host is not connected to any other network at the same time, except for personal networks that are under their complete control or under the complete control of an authorized user or third party.
 
-    i. Users performing telework must protect the organization’s intellectual property rights, either for software or other materials that are present on remote nodes and mobile computing equipment.
-      * Do not store information belonging to the company on unauthorized storage. This includes, but is not limited to your personal devices' local hard drive, unauthorized removable devices, email accounts, and cloud storage.
-      * Do not publish work related to work that includes code, documentation, clients name, software used, or any information that is not explicitly labeled as for public use.
+    i. Users performing telework must protect the organization’s intellectual property rights, either for software or other materials that are present on remote nodes and mobile computing equipment. It is prohibited to publish any work-related assets that includes code, documentation, clients name, software used, or any information that is not explicitly labeled as for public use according to the Data Classification Policy.
