@@ -4,7 +4,7 @@ satisfies:
   TSC:
     - CC9.9
 majorRevisions:
-  - date: Feb 11 2021
+  - date: Feb 12 2021
     comment: Initial document
 ---
 
@@ -31,9 +31,9 @@ a. *Password complexity*
     i. User and machine-generated password must:
       * Contain at least 10 characters or as many as the system permits it.
       * Be composed of alphanumeric characters.
-      * Avoid repetitive and sequential characters.
-      * Avoid dictionary and context-specific words.
-      * Not be included in a database of previously [breached passwords](https://haveibeenpwned.com/Passwords).
+      * Avoid using repetitive and sequential characters.
+      * Avoid using dictionary and context-specific words.
+      * Not be included in a database of previously (see https://haveibeenpwned.com/Passwords).
 
 a. *Password protection*
 

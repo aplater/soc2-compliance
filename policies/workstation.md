@@ -18,26 +18,25 @@ a. This policy applies to regular full-time, regular part-time, temporary, and p
 
 a. Workstation devices must meet the following criteria:
     
-    i. Operating system must be no more than one generation older than current.
-
-    i. Device must be locked when not in use or when the employee leaves the workstation. Enable screen sleeping after 15 minutes of inactivity.
-    
-    i. Loss or destruction of devices must be reported immediately to the ISM.
-
-a. Additonnally, managed workstations devices must meet the following criteria:
-    
     i. Device must be encrypted at rest.
 
-    i. Device must be used for authorized business purposes only.
+    i. Operating system must be no more than one generation older than current.
 
-    i. Laptops, desktop must run the latest version of antivirus software that has been approved by IT.
+    i. Device must be locked when not in use or when the employee leaves the workstation.
+
+    i. Screen sleeping must be triggered when the device is idle for 15 min.
     
+    i. Laptops, desktop must run the latest version of antivirus software that has been approved by IT.
+
+    i. Loss or destruction of devices must be reported immediately to the ISM.
 
 a. *Desktop & laptop devices*
 
     i. Regular full-time and regular part-time employees will be issued a desktop, laptop, or both by the company, based on their job duties. Temporary and provisional employees will provide their own laptops. 
 
       i. Desktops and laptops must operate on macOS, Windows, or an approved flavor of Linux.
+
+    i. Desktops and laptops issues by Fusion-IT must be used for authorized business purposes only.
 
 a. *Mobile devices*
 
